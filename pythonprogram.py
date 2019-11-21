@@ -65,7 +65,4 @@ def view_stats():
             total += int(item)
     print("The average age is: ", (total)/(num_lines))
   
-   
-
-    
 data_loop()
